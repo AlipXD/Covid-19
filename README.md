@@ -5,7 +5,6 @@
 <p align="center">
   Author <a href="https://www.facebook.com/LordzAlifXD">Muhammad Alif Febriyan</a>
 </p>
-![IMG](aasu.png)
 <p align="center">
 
 
