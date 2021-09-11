@@ -6,6 +6,7 @@
   Author <a href="https://www.facebook.com/LordzAlifXD">Muhammad Alif Febriyan</a>
 </p>
 <p align="center">
+  ![IMG](aasu.png)
 
 
 #### Install script on Termux
