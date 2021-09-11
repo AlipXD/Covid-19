@@ -1,5 +1,5 @@
 <h1 align="center">
-  V2 CRACK
+  Covid-19
 </h1>
 </div>
 <p align="center">
