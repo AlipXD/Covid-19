@@ -5,8 +5,8 @@
 <p align="center">
   Author <a href="https://www.facebook.com/LordzAlifXD">Muhammad Alif Febriyan</a>
 </p>
-<p align="center">
 ![IMG](aasu.png)
+<p align="center">
 
 
 #### Install script on Termux
